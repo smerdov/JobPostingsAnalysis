@@ -10,3 +10,4 @@ Representations obtained by TF-IDF were clustered into groups, and it reveals se
 * Data science manager (manage, communicate, business)
 * Data engineer (deploy, engineer, downstream)
 
+Please feel free to check the code and results in ``Solution.ipynb``, and more detailed code in ``main.py``.
