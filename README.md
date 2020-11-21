@@ -1,6 +1,6 @@
-In this repo, I provide an analysis of data science jobs postings parsed from websites like Indeed, Dice, and others.
+In this repo, I analyze data science job postings parsed from websites like Indeed, Dice, and others.
 To parse jobs descriptions, I preprocessed words into tokens with ``nltk`` library,
-created count matrix, and reweighted it using TF-IDF.
+created a count matrix, and reweighted it using TF-IDF.
 
 Representations obtained by TF-IDF were clustered into groups, and it reveals several kinds of DS jobs:
 
